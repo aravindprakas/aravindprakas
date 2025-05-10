@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aravindprakas
-- 👀 ReactJS, Flutter, JavaScript, AEM
+- 👀 React, Flutter, JavaScript, AEM
 - 💞️ In love with Programming
 
 
